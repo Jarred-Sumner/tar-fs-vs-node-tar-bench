@@ -1,5 +1,7 @@
 # tar-fs vs node-tar decompression
 
+TLDR: `tar-fs` is 2.5x slower than `node-tar` on this benchmark.
+
 `tar-fs` results:
 
 ```zsh
